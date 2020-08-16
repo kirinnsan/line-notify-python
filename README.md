@@ -9,6 +9,6 @@
 
    pip install -r requirements.txt
 
-4. app.pyを実行してすることで、Lineにメッセージを送信する。
+4. app.pyを実行することで、Lineにメッセージを送信する。
 
 　※取得したトークンは、外部に公開しないようにする。
