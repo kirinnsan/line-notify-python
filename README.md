@@ -1,6 +1,6 @@
 # line-notify-python
 
-1. 以下のURLからアカウント登録してトークンを取得。
+1. 以下のURLからアカウント登録し、ページの右上からマイページに移動してトークンを発行。
 
    https://notify-bot.line.me/ja/
 2. 取得したトークンをsetting.iniのaccess_tokenに設定。
